@@ -1,1 +1,1 @@
-# static_sunet_se
+This are static web artifacts for SUNET - all public
